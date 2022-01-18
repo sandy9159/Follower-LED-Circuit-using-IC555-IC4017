@@ -55,7 +55,9 @@ The basic 555 timer gets its name from the fact that there are three internally 
 
 The 555 timer IC is a very cheap, popular and useful precision timing device which can act as either a simple timer to generate single pulses or long time delays, or as a relaxation oscillator producing a string of stabilised waveforms of varying duty cycles from 50 to 100%.
 
+![image](https://user-images.githubusercontent.com/19898602/149890834-d12ceff0-b00a-4e63-894a-c2b8e9a709ab.png)
 
+![image](https://user-images.githubusercontent.com/19898602/149890889-68b03715-9d1f-4362-a5b3-91b35f8aeb8b.png)
 
 # IC 4017
 
@@ -71,9 +73,7 @@ CD4017 is the most popular ic which is widely used in various applications like 
 
 This is more useful in different types of projects like Light Chaser, Remote controlled Switch, Alarm, Touch ON-OFF  switch, Clap switch, Matrix Die etc.
 
-![image](https://user-images.githubusercontent.com/19898602/149890834-d12ceff0-b00a-4e63-894a-c2b8e9a709ab.png)
 
-![image](https://user-images.githubusercontent.com/19898602/149890889-68b03715-9d1f-4362-a5b3-91b35f8aeb8b.png)
 
 
 ![image](https://user-images.githubusercontent.com/19898602/149891420-4b9fead9-f321-45fd-936a-8e6d8d745105.png)
