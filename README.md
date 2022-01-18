@@ -42,6 +42,9 @@
 
 # IC 555
 
+![image](https://user-images.githubusercontent.com/19898602/149891001-0fc617b9-78bb-492d-bd8d-5703d2c4eb6a.png)
+
+
 We have seen that Multivibrators and CMOS Oscillators can be easily constructed from discrete components to produce relaxation oscillators for generating basic square wave output waveforms. But there are also dedicated IC’s especially 
 
 designed to accurately produce the required output waveform with the addition of just a few extra timing components.
@@ -52,9 +55,28 @@ The basic 555 timer gets its name from the fact that there are three internally 
 
 The 555 timer IC is a very cheap, popular and useful precision timing device which can act as either a simple timer to generate single pulses or long time delays, or as a relaxation oscillator producing a string of stabilised waveforms of varying duty cycles from 50 to 100%.
 
+
+
+# IC 4017
+
+![image](https://user-images.githubusercontent.com/19898602/149891183-bb1c69b3-2e6e-44f0-bf89-aeab9e527f20.png)
+
+CD4017 or HCF4017BE or 74HC4017 is a CMOS decade counter/ Divider. It has 16 pins and this counter has 10 decoded outputs.  
+
+This is known also as 10 stages ‘Johnson decade counter.  It has total 10 outputs. when a clock signal from the clock input given 
+
+then output turns to Highl one by one in sequence. When the clock input is given to input, at each pulse of the clock input signal the output turns on in sequence.
+
+CD4017 is the most popular ic which is widely used in various applications like Binary counter, Decoder, Decade counter, Frequency division, etc. 
+
+This is more useful in different types of projects like Light Chaser, Remote controlled Switch, Alarm, Touch ON-OFF  switch, Clap switch, Matrix Die etc.
+
 ![image](https://user-images.githubusercontent.com/19898602/149890834-d12ceff0-b00a-4e63-894a-c2b8e9a709ab.png)
 
 ![image](https://user-images.githubusercontent.com/19898602/149890889-68b03715-9d1f-4362-a5b3-91b35f8aeb8b.png)
+
+
+![image](https://user-images.githubusercontent.com/19898602/149891420-4b9fead9-f321-45fd-936a-8e6d8d745105.png)
 
 
 #  CIRCUIT DIAGRAM AND PCB DETAILS
